@@ -5,7 +5,3 @@ Fourth line
 Fifth Line
 sixth line
 This is now in conflict, dave!
-
-Commit one
-Commit two
-Commit three
